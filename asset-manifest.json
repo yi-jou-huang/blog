@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yi-jou-huang/blog.github.io.git/static/css/main.de8fb607.css",
+    "main.js": "/yi-jou-huang/blog.github.io.git/static/js/main.a4650a70.js",
+    "index.html": "/yi-jou-huang/blog.github.io.git/index.html",
+    "main.de8fb607.css.map": "/yi-jou-huang/blog.github.io.git/static/css/main.de8fb607.css.map",
+    "main.a4650a70.js.map": "/yi-jou-huang/blog.github.io.git/static/js/main.a4650a70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de8fb607.css",
+    "static/js/main.a4650a70.js"
+  ]
+}
